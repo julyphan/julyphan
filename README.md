@@ -1,5 +1,6 @@
 #  
 ![welcome_icon](https://github.com/julyphan/julyphan/assets/161924107/4b91891a-ac72-49bc-af54-e7ec7f27d19d)
+![welcome_icon](https://github.com/julyphan/julyphan/blob/main/hi.gif)
 <h1>  
 Hi, I'm July Phan!  
 Automation Test Engineer
